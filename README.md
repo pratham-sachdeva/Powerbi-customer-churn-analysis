@@ -23,4 +23,8 @@ Install Power BI Desktop, if you don't have it installed already.
 Open Power BI Desktop and open the downloaded file.
 Once the report is loaded, you can interact with the visuals, apply filters, and explore the customer churn analysis.
 
+## Acknowledgments
+
+I would like to express my gratitude to DataCamp for providing the case study and dataset for this project. Their contribution made this analysis possible and helped me gain valuable insights into customer churn.
+
 I hope you find the insights valuable and applicable to your business scenarios. Happy analyzing!
